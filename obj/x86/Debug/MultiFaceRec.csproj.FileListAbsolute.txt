@@ -1,0 +1,87 @@
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\MultiFaceRec.exe
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\MultiFaceRec.pdb
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\Emgu.CV.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\Emgu.Util.xml
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Dashboard.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Login.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.OpenAccount.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.AccountHolderImage.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FacePayTransaction.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FacePay.resources
+C:\Users\ajay.elme\Desktop\SILL\CSharp Practice\FacePayment\FacePayment\bin\Debug\MultiFaceRec.exe.config
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\MultiFaceRec.exe.config
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.exe
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.pdb
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\MultiFaceRec.exe
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\MultiFaceRec.pdb
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\Emgu.CV.xml
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\Emgu.CV.UI.xml
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\bin\Debug\Emgu.Util.xml
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.AccountHolderImage.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Dashboard.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FacePay.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FacePayTransaction.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Login.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.OpenAccount.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+F:\KANCHAN2.O\FacePayment\FacePayment\FacePayment\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+D:\FacePayment11\bin\Debug\MultiFaceRec.exe.config
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.exe
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.pdb
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.AccountHolderImage.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.Dashboard.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.FacePay.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.FacePayTransaction.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.Login.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.OpenAccount.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\FacePayment11\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+D:\FacePayment11\bin\Debug\MultiFaceRec.exe
+D:\FacePayment11\bin\Debug\MultiFaceRec.pdb
+D:\FacePayment11\bin\Debug\Emgu.CV.xml
+D:\FacePayment11\bin\Debug\Emgu.CV.UI.xml
+D:\FacePayment11\bin\Debug\Emgu.Util.xml
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\MultiFaceRec.exe.config
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.exe
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.pdb
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\MultiFaceRec.exe
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\MultiFaceRec.pdb
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\Emgu.CV.xml
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\Emgu.CV.UI.xml
+D:\HACKATHON\Ajay elme\FacePayment11\bin\Debug\Emgu.Util.xml
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.AccountHolderImage.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.Dashboard.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.FacePay.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.FacePayTransaction.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.Login.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.OpenAccount.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\HACKATHON\Ajay elme\FacePayment11\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
